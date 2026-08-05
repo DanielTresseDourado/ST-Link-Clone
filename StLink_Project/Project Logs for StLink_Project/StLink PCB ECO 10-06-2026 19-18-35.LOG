@@ -1,0 +1,26 @@
+Add Pin To Net: Unknown Pin: Pin CN1-1
+Add Pin To Net: Unknown Pin: Pin CN1-2
+Add Pin To Net: Unknown Pin: Pin CN1-3
+Add Pin To Net: Unknown Pin: Pin CN2-5
+Add Pin To Net: Unknown Pin: Pin CN2-6
+Added Pin To Net: NetName=STM JTCK Pin=TP1-1
+Added Pin To Net: NetName=STM JTCK Pin=U1-A7
+Added Net: Name=STM JTCK
+Added Pin To Net: NetName=STM JTMS Pin=TP2-1
+Added Pin To Net: NetName=STM JTMS Pin=U1-A8
+Added Net: Name=STM JTMS
+Added Pin To Net: NetName=SWIM  Pin=U1-B3
+Added Net: Name=SWIM 
+Added Pin To Net: NetName=SWIM IN Pin=U1-A3
+Added Pin To Net: NetName=SWIM IN Pin=U1-C3
+Added Pin To Net: NetName=SWIM IN Pin=U1-G7
+Added Net: Name=SWIM IN
+Added Pin To Net: NetName=SWIM Pin=U1-H7
+Added Net: Name=SWIM
+Added Pin To Net: NetName=T JTCK Pin=R1-2
+Added Pin To Net: NetName=T JTCK Pin=U1-F4
+Added Pin To Net: NetName=T JTCK Pin=U1-G8
+Added Net: Name=T JTCK
+Added Pin To Net: NetName=T SWDIO IN Pin=R10-2
+Added Pin To Net: NetName=T SWDIO IN Pin=U1-H8
+Added Net: Name=T SWDIO IN

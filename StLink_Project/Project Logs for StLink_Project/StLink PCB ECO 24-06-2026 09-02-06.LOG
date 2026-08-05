@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=CN1-S1
+Removed Pin From Net: NetName=GND Pin=CN1-S2
+Change Component Designator: OldDesignator=23 NewDesignator=R5
+Change Component Description : Designator=U2 Old Description=Ldo, Fixed, 3.3V, 0.3A, -40 To 85Deg C Rohs Compliant: Yes New Description=Ldo, Fixed, 3.3V, 0.3A, -40 To 85Deg C Rohs Compliant: Yes |Diodes Inc. AP7343D-33FS4-7B
+Change Component Description : Designator=D3 Old Description=Schottky Diode Sod323 T&r 3K Rohs Compliant: Yes New Description=Schottky Diode Sod323 T&r 3K Rohs Compliant: Yes |Diodes Inc. BAT54WS-7-F

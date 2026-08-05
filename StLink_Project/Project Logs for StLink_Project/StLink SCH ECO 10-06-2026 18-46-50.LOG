@@ -1,0 +1,18 @@
+Remove Pin=R1-2 From Net=T JTCK
+Remove Pin=R2-2 From Net=T JTMS
+Remove Pin=R10-2 From Net=T SWDIO IN
+Remove Pin=TP1-1 From Net=STM JTCK
+Remove Pin=TP2-1 From Net=STM JTMS
+Remove Pin=U1-A3 From Net=SWIM IN
+Remove Pin=U1-A7 From Net=STM JTCK
+Remove Pin=U1-A8 From Net=STM JTMS
+Remove Pin=U1-B3 From Net=SWIM
+Remove Pin=U1-B8 From Net=USB DP
+Remove Pin=U1-C3 From Net=SWIM IN
+Remove Pin=U1-C7 From Net=LED STLINK
+Remove Pin=U1-C8 From Net=USB DM
+Remove Pin=U1-F4 From Net=T JTCK
+Remove Pin=U1-G7 From Net=SWIM IN
+Remove Pin=U1-G8 From Net=T JTCK
+Remove Pin=U1-H7 From Net=SWIM
+Remove Pin=U1-H8 From Net=T SWDIO IN

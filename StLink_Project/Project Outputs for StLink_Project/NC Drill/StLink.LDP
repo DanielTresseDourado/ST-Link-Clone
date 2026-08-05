@@ -1,0 +1,10 @@
+Layer Pairs Export File for PCB: C:\Repos\1ELE909-Prototipagem\Assignment12\assingment12-stlinkclonefinal-DanielTresseDourado\StLink_Project\StLink.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=stlink-roundholes.txt|DrillLayers=gtl,gp1,gp2,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=stlink-slotholes.txt|DrillLayers=gtl,gp1,gp2,g1,g2,gbl
+LayersSetName=Top_VCC_Blind_Vias|DrillFile=stlink-roundholes.tx1|DrillLayers=gtl,gp1,gp2
+LayersSetName=Top_S3_Blind_Vias|DrillFile=stlink-roundholes.tx2|DrillLayers=gtl,gp1,gp2,g1
+LayersSetName=Top_S4_Blind_Vias|DrillFile=stlink-roundholes.tx3|DrillLayers=gtl,gp1,gp2,g1,g2
+LayersSetName=GND_Bot_Blind_Vias|DrillFile=stlink-roundholes.tx4|DrillLayers=gp1,gp2,g1,g2,gbl
+LayersSetName=VCC_Bot_Blind_Vias|DrillFile=stlink-roundholes.tx5|DrillLayers=gp2,g1,g2,gbl
+LayersSetName=S3_Bot_Blind_Vias|DrillFile=stlink-roundholes.tx6|DrillLayers=g1,g2,gbl
+LayersSetName=S4_Bot_Blind_Vias|DrillFile=stlink-roundholes.tx7|DrillLayers=g2,gbl

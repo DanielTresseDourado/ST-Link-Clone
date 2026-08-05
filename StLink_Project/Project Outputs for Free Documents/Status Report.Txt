@@ -1,0 +1,28 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 09:17:17 On 22/06/2026
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [StLink.PcbDoc]
+   Generated File[StLink.GTO]
+   Generated File[StLink.GTP]
+   Generated File[StLink.GTS]
+   Generated File[StLink.GTL]
+   Generated File[StLink.GP1]
+   Generated File[StLink.GP2]
+   Generated File[StLink.G1]
+   Generated File[StLink.G2]
+   Generated File[StLink.GBL]
+   Generated File[StLink.GBS]
+   Generated File[StLink.GBP]
+   Generated File[StLink.GBO]
+   Generated File[StLink.GM]
+   Generated File[StLink.EXTREP]
+   Generated File[StLink.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 09:17:18 On 22/06/2026

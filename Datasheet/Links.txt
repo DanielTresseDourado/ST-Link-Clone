@@ -1,0 +1,41 @@
+micro STM32F103R8H6 -  https://www.digikey.com.br/en/products/detail/stmicroelectronics/STM32F103R8H6/2035336
+
+Led Green - https://www.digikey.com.br/en/products/detail/w%C3%BCrth-elektronik/150040VS73240/8557157
+Led Red - https://www.digikey.com.br/en/products/detail/w%C3%BCrth-elektronik/150040RS73240/8557156
+
+Resistor Leds (0201) 560 ohm - https://www.digikey.com.br/en/products/detail/yageo/RC0201FR-07560RL/3202414
+
+diodo schottky Single - https://www.digikey.com/en/products/detail/diodes-incorporated/BAT54WS-7-F/804865
+resistor 0ohm(0201) - https://www.digikey.com.br/en/products/detail/yageo/RC0201JR-070RL/1948898
+
+Capacitor 0.1uF - https://www.digikey.com/en/products/detail/murata-electronics/GRM155R71H104KE14D/4906220
+
+Resistor 100k - https://www.digikey.com.br/en/products/detail/yageo/RC0201FR-07100KL/1948859
+
+Resistor 1.5k - https://www.digikey.com.br/en/products/detail/yageo/RC0201JR-071K5L/1948919
+
+Resistor 22 - https://www.digikey.com.br/en/products/detail/yageo/RC0201FR-0722RL/5280378
+
+Resistor 100 - https://www.digikey.com/en/products/detail/yageo/RC0201FR-07100RL/1948860
+
+Capacitor desacoplamento 100nF (0201) - https://www.digikey.com/en/products/detail/murata-electronics/GRM033R60J104KE19D/702433
+
+Capacitor cristal 20pF (0210) - https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1H200GA01D/2542165
+
+Regulador de tensao - https://www.digikey.com/en/products/detail/onsemi/NCP115AMX330TBG/9829206?s=N4IgTCBcDaIHYGMAOBGFBWAhgWwB4GZ8AGAFwCMBzEAXQF8g
+
+Capacitor 1uF p/ regulador - https://www.digikey.com/en/products/detail/murata-electronics/GRM033R60J105MEA2D/4213369
+
+Cristal 8MHz - https://www.digikey.com/en/products/detail/ecs-inc/ECS-80-12-33-JGN-TR/10478754
+
+USB A - https://www.digikey.com/en/products/detail/molex/0480372200/2421361?s=N4IgTCBcDaICwA4AMBmA7AWjGJSQF0BfIA
+
+Conector 1x3 - https://www.digikey.com/en/products/detail/samtec-inc/T1M-03-F-SH-L/6692888
+
+Resistor 10k - https://www.digikey.com/en/products/detail/yageo/RC0201FR-0710KL/1948870
+
+Resistor 82 - https://www.digikey.com/en/products/detail/yageo/RC0201JR-0782RL/3202440
+
+Capacitor 1uF 16V (0201) - https://www.digikey.com/en/products/detail/murata-electronics/GRM033R61C105ME15D/10326307
+
+capacitor 15pF p/ cristal (0201) - https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1E150JA01D/4358179?s=N4IgTCBcDaIOYCcC2AGAzGgrAYwIwFNdMUArAQxVwBMQBdAXyA

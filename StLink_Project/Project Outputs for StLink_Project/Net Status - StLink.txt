@@ -1,0 +1,35 @@
+Net Status Report
+Filename     : C:\Repos\1ELE909-Prototipagem\Assignment10\assignment10-stlinkcloneboardshapeandrouting-DanielTresseDourado\StLink_Project\StLink.PcbDoc
+Date         : 11/06/2026
+Time         : 13:34:05
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    3.3V, Signal Layers Only, 0mm
+    5V, Signal Layers Only, 0mm
+    AIN 1, Signal Layers Only, 0mm
+    GND, Signal Layers Only, 0mm
+    LED STLINK, Signal Layers Only, 0mm
+    NetC4_1, Signal Layers Only, 0mm
+    NetCN1_1, Signal Layers Only, 1.575mm
+    NetCN1_2, Signal Layers Only, 1.575mm
+    NetD1_2, Signal Layers Only, 0mm
+    NetD2_1, Signal Layers Only, 0mm
+    NetD4_2, Signal Layers Only, 0mm
+    NetR13_2, Signal Layers Only, 0mm
+    NetR5_2, Signal Layers Only, 0mm
+    NetR7_2, Signal Layers Only, 0mm
+    NetR9_1, Signal Layers Only, 0mm
+    OSC IN, Signal Layers Only, 0mm
+    OSC OUT, Signal Layers Only, 0mm
+    STM JTCK, Signal Layers Only, 0mm
+    STM JTMS, Signal Layers Only, 0mm
+    SWIM, Signal Layers Only, 0mm
+    SWIM IN, Signal Layers Only, 0mm
+    T JTCK, Signal Layers Only, 0mm
+    T JTMS, Signal Layers Only, 0mm
+    T SWDIO IN, Signal Layers Only, 0mm
+    U5V, Signal Layers Only, 0mm
+    USB DM, Signal Layers Only, 0mm
+    USB DP, Signal Layers Only, 0mm
+count : 27
